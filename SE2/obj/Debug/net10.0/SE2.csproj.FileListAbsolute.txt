@@ -1,0 +1,14 @@
+C:\Users\manli\OneDrive\CSharp\SE2\bin\Debug\net10.0\SE2.exe
+C:\Users\manli\OneDrive\CSharp\SE2\bin\Debug\net10.0\SE2.deps.json
+C:\Users\manli\OneDrive\CSharp\SE2\bin\Debug\net10.0\SE2.runtimeconfig.json
+C:\Users\manli\OneDrive\CSharp\SE2\bin\Debug\net10.0\SE2.dll
+C:\Users\manli\OneDrive\CSharp\SE2\bin\Debug\net10.0\SE2.pdb
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\SE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\SE2.AssemblyInfoInputs.cache
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\SE2.AssemblyInfo.cs
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\SE2.csproj.CoreCompileInputs.cache
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\SE2.dll
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\refint\SE2.dll
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\SE2.pdb
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\SE2.genruntimeconfig.cache
+C:\Users\manli\OneDrive\CSharp\SE2\obj\Debug\net10.0\ref\SE2.dll
